@@ -125,7 +125,7 @@ to test.
 
 ## 👨‍💻 Author
 
-Vaidehi
+Vaidehi Muluru
 
 
 
