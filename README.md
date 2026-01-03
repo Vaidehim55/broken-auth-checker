@@ -85,7 +85,6 @@ python3 broken_auth_check.py example.json
 ### Output
 
 * Scan results are displayed in the terminal
-* Potentially vulnerable endpoints are saved to `vulnerable.txt`
 
 ---
 
