@@ -1,14 +1,4 @@
-# broken-auth-checker
-Python tool to detect Broken Authentication in API POST endpoints using Postman or Swagger JSON.
-Perfect 👍
-Below is a **fully copy-pastable `README.md`**, updated to **exactly match your workflow**
-(Postman export → JSON → base URL changed inside script → run tool).
 
-You can paste this **as-is** into your repository.
-
----
-
-````md
 # Broken Authentication Checker (API)
 
 A lightweight Python tool to automatically identify **Broken Authentication**
